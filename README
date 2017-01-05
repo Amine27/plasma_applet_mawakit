@@ -1,0 +1,28 @@
+======================
+Mawakit Plasmoid 0.3.0
+======================
+
+Mawakit is a prayer times plasmoid that plays the Islamic Adhan when it is time for prayer.
+Designed to be simple and elegant, Mawakit shows a countdown until the next prayer in a nice tooltip.
+
+
+Installation
+=============
+
+First, you need a complete build environment. You must install packages cmake, make, gcc (g++), gettext and
+KDE development packages. These packages are called differently, depending on your distribution:
+kde-devel on Ubuntu, task-kde4-devel on Mandriva, or similar.
+
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix` ..
+make
+sudo make install
+
+
+Author
+======
+
+(c) Amine Roukh (amineroukh@gmail.com)
+
+icon from STYLEISLAM (www.styleislam.com)

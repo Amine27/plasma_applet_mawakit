@@ -1,0 +1,9 @@
+[Global]
+Name=Mawakit Plasmoid
+IconName=kaba
+Comment=Mawakit Plasmoid
+
+[Event/PrayerTime]
+Name=Pray Time
+Comment=It is time to pray
+Action=Popup

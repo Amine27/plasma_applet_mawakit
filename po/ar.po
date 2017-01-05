@@ -1,0 +1,554 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amine Roukh <amineroukh@gmail.com>, 2010, 2011.
+# Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/\n"
+"POT-Creation-Date: 2011-08-27 18:25+0100\n"
+"PO-Revision-Date: 2011-08-27 18:39+0100\n"
+"Last-Translator: Amine Roukh <amineroukh@gmail.com>\n"
+"Language-Team: Arabic <http://amine27.byethost8.com/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: build/ui_displayform.h:230 src/mawakit.cpp:123
+msgid "Display"
+msgstr "العرض"
+
+#: build/ui_displayform.h:231
+msgid "Show Times"
+msgstr "أظهر الأوقات"
+
+#: build/ui_displayform.h:232
+msgid "Chose times to show in tooltips:"
+msgstr "اختر الأوقات التي تظهر في التلميحة:"
+
+#: build/ui_displayform.h:233 build/ui_monthlyprayerform.h:176
+#: src/mawakit.cpp:85 src/monthlyprayer.cpp:419
+msgid "Fajr"
+msgstr "الفجر"
+
+#: build/ui_displayform.h:234 build/ui_monthlyprayerform.h:175
+#: src/mawakit.cpp:85 src/monthlyprayer.cpp:420
+msgid "Sunrise"
+msgstr "الشروق"
+
+#: build/ui_displayform.h:235 build/ui_monthlyprayerform.h:174
+#: src/mawakit.cpp:85 src/monthlyprayer.cpp:421
+msgid "Dhuhr"
+msgstr "الظهر"
+
+#: build/ui_displayform.h:236 build/ui_monthlyprayerform.h:173
+#: src/mawakit.cpp:86 src/monthlyprayer.cpp:422
+msgid "Asr"
+msgstr "العصر"
+
+#: build/ui_displayform.h:237 build/ui_monthlyprayerform.h:172
+#: src/mawakit.cpp:86 src/monthlyprayer.cpp:423
+msgid "Maghrib"
+msgstr "المغرب"
+
+#: build/ui_displayform.h:238 build/ui_monthlyprayerform.h:171
+#: src/mawakit.cpp:86 src/monthlyprayer.cpp:424
+msgid "Isha'a"
+msgstr "العشاء"
+
+#: build/ui_displayform.h:239
+msgid "Display Mode"
+msgstr "طريقة العرض"
+
+#: build/ui_displayform.h:240
+msgid "Show next prayer time"
+msgstr "أظهر الوقت التالي للصلاة"
+
+#: build/ui_displayform.h:241
+msgid "Countdown to next prayer"
+msgstr "عد تنازليا حتى الوقت التالي للصلاة"
+
+#: build/ui_displayform.h:242
+msgid "Don't show hour if it is zero"
+msgstr "لا تظهر الساعات إذا كانت صفرا"
+
+#: build/ui_displayform.h:243
+msgid "Ignore seconds when more than one hour is remaining"
+msgstr "ألغ الثواني إذا بقي أكثر من ساعة"
+
+#: build/ui_displayform.h:245
+msgid "Show until 10 minutes current prayer time"
+msgstr "أظهر الوقت الحالي للصلاة لمدة 10 دقائق"
+
+#: build/ui_displayform.h:247
+msgid "Show time from previous prayer"
+msgstr "أظهر الوقت منذ الصلاة السابقة"
+
+#: build/ui_displayform.h:248
+msgid "Use AM/PM clock format"
+msgstr "استعمل نموذج الساعة صباحا/مساء"
+
+#: build/ui_displayform.h:249
+msgid "Enable effect of the remaining time for prayer"
+msgstr "تفعيل مؤثر الوقت المتبقي للصلاة"
+
+#: build/ui_locationform.h:239 src/mawakit.cpp:121
+msgid "Location"
+msgstr "الموقع"
+
+#: build/ui_locationform.h:240
+msgid "Country/City"
+msgstr "البلد/المدينة"
+
+#: build/ui_locationform.h:241
+msgid "Chose your country:"
+msgstr "اختر بلدك:"
+
+#: build/ui_locationform.h:242
+msgid "Chose your city:"
+msgstr "اختر مدينتك:"
+
+#: build/ui_locationform.h:243
+msgid "Informations"
+msgstr "معلومات"
+
+#: build/ui_locationform.h:244
+msgid "Latitude:"
+msgstr "خط العرض:"
+
+#: build/ui_locationform.h:246
+msgid "Longitude:"
+msgstr "خط الطول:"
+
+#: build/ui_locationform.h:247
+msgid "Time zone:"
+msgstr "النطاق الزمني:"
+
+#: build/ui_locationform.h:248
+msgid "Daylight Savings Time"
+msgstr "مراعاة التوقيت الصيفي"
+
+#: build/ui_locationform.h:249
+msgid "Other Settings"
+msgstr "خيارات أخرى"
+
+#: build/ui_locationform.h:250
+msgid "Calculation method:"
+msgstr "طريقة الحساب:"
+
+#: build/ui_locationform.h:253
+msgid "Umm Al-Qurra"
+msgstr "جامعة أم القرى"
+
+#: build/ui_locationform.h:254
+msgid "Egyptian General Authority of Survey"
+msgstr "الهيئة العامة المصرية للمساحة"
+
+#: build/ui_locationform.h:255
+msgid "University of Islamic Sciences, Karachi"
+msgstr "جامعة العلوم الإسلامية، كراتشى"
+
+#: build/ui_locationform.h:256
+msgid "Islamic Society of North America"
+msgstr "الإتحاد الإسلامي بأمريكا الشمالية"
+
+#: build/ui_locationform.h:257
+msgid "Muslim World League"
+msgstr "رابطة العالم الإسلامي"
+
+#: build/ui_locationform.h:259
+msgid "Asr juristic method:"
+msgstr "المذهب الفقهي للعصر:"
+
+#: build/ui_locationform.h:262
+msgid "Shafi'i, Hanbali, Maliki"
+msgstr "الشافعي، الحنبلي، المالكي"
+
+#: build/ui_locationform.h:263
+msgid "Hanafi"
+msgstr "الحنفي"
+
+#: build/ui_locationform.h:265 build/ui_manualcalcform.h:237
+#: build/ui_manualcalcform.h:240
+msgid "Manual Calculations"
+msgstr "الحساب اليدوي"
+
+#: build/ui_locationform.h:268
+msgid "None"
+msgstr "لاشيء"
+
+#: build/ui_locationform.h:269
+msgid "Middle of Night"
+msgstr "منتصف الليل"
+
+#: build/ui_locationform.h:270
+msgid "One-Seventh of Night"
+msgstr "سُبع الليل"
+
+#: build/ui_locationform.h:271
+msgid "Angle-Based"
+msgstr "اعتمادا على الزاوية"
+
+#: build/ui_locationform.h:273
+msgid "Adjustment for higher latitudes:"
+msgstr "ضبط لخطوط العرض العليا"
+
+#: build/ui_manualcalcform.h:238
+msgid ""
+"if a prayer time in Mawakit consistently differs from\n"
+"the local prayer time, you can statically adjust it below. "
+msgstr ""
+"إذا كان وقت الصلاة في مواقيت مختلف عن\n"
+"وقت الصلاة المحلي، يمكنك ضبطها تقريبيا أدناه."
+
+#: build/ui_manualcalcform.h:241
+msgid "Fajr:"
+msgstr "الفجر:"
+
+#: build/ui_manualcalcform.h:242 build/ui_manualcalcform.h:244
+#: build/ui_manualcalcform.h:246 build/ui_manualcalcform.h:248
+#: build/ui_manualcalcform.h:250 build/ui_manualcalcform.h:252
+msgid "Fixed Time"
+msgstr "وقت ثابت"
+
+#: build/ui_manualcalcform.h:243
+msgid "Sunrise:"
+msgstr "الشروق:"
+
+#: build/ui_manualcalcform.h:245
+msgid "Dhuhr:"
+msgstr "الظهر:"
+
+#: build/ui_manualcalcform.h:247
+msgid "Asr:"
+msgstr "العصر:"
+
+#: build/ui_manualcalcform.h:249
+msgid "Maghrib:"
+msgstr "المغرب:"
+
+#: build/ui_manualcalcform.h:251
+msgid "Isha'a:"
+msgstr "العشاء:"
+
+#: build/ui_monthlyprayerform.h:152 src/mawakit.cpp:73
+msgid "Monthly Prayer"
+msgstr "أوقات الصلاة الشهرية"
+
+#: build/ui_monthlyprayerform.h:154
+msgid "Previous year"
+msgstr "السنة السابقة"
+
+#: build/ui_monthlyprayerform.h:158
+msgid "Previous month"
+msgstr "الشهر السابق"
+
+#: build/ui_monthlyprayerform.h:163
+msgid "Next month"
+msgstr "الشهر التالي"
+
+#: build/ui_monthlyprayerform.h:167
+msgid "Next year"
+msgstr "السنة التالية"
+
+#: build/ui_monthlyprayerform.h:177
+msgid "calSys"
+msgstr "calSys"
+
+#: build/ui_monthlyprayerform.h:178 src/monthlyprayer.cpp:417
+msgid "Day"
+msgstr "اليوم"
+
+#: build/ui_monthlyprayerform.h:180
+msgid "Show in Hijri calandar"
+msgstr "استعمال التقويم الهجري"
+
+#: build/ui_monthlyprayerform.h:182
+msgid "Hijri Calendar"
+msgstr "التقويم الهجري"
+
+#: build/ui_monthlyprayerform.h:183
+msgid "Save"
+msgstr "حفظ"
+
+#: build/ui_monthlyprayerform.h:184
+msgid "Print"
+msgstr "طباعة"
+
+#: build/ui_notificationform.h:244 src/mawakit.cpp:122
+msgid "Notifications"
+msgstr "التنبيهات"
+
+#: build/ui_notificationform.h:245
+msgid "Alerts"
+msgstr "الإنذارات"
+
+#: build/ui_notificationform.h:246
+msgid "Display notifications before prayer times:"
+msgstr "أظهر التنبيهات قبل أوقات الصلاة:"
+
+#: build/ui_notificationform.h:247 build/ui_notificationform.h:250
+msgid " min"
+msgstr " د"
+
+#: build/ui_notificationform.h:249
+msgid "Display notifications after prayer times:"
+msgstr "أظهر التنبيهات بعد أوقات الصلاة:"
+
+#: build/ui_notificationform.h:251
+msgid "Sound"
+msgstr "الصوت"
+
+#: build/ui_notificationform.h:252
+msgid "Play athan at prayer times"
+msgstr "تشغيل الأذان عند أوقات الصلاة"
+
+#: build/ui_notificationform.h:253
+msgid "Adhan file:"
+msgstr "ملف الأذان"
+
+#: build/ui_notificationform.h:255 build/ui_notificationform.h:260
+msgid "Play"
+msgstr "تشغيل"
+
+#: build/ui_notificationform.h:258
+msgid "Fajr Adhan file:"
+msgstr "ملف أذان الفجر"
+
+#: build/ui_notificationform.h:263
+msgid "Play Duaa"
+msgstr "تفعيل الدعاء"
+
+#: build/ui_notificationform.h:265
+msgid "Volume:"
+msgstr "الصوت:"
+
+#: build/ui_notificationform.h:266
+msgid "Stop players at praying time (Amarok, Dragon Player...)"
+msgstr "إيقاف المشغلات عند وقت الصلاة (أماروك،  المشغل دراجون ...)"
+
+#: build/ui_qibladirectionform.h:61 src/mawakit.cpp:68
+msgid "Qibla Direction"
+msgstr "إتجاه القبلة"
+
+#: po/rc.cpp:1 rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "أمين روخ"
+
+#: po/rc.cpp:2 rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "amineroukh@gmail.com"
+
+#: src/mawakit.cpp:346
+msgid "It is time for %1 prayer."
+msgstr "حان وقت صلاة %1."
+
+#: src/mawakit.cpp:349 src/mawakit.cpp:435
+msgid "Prayer Time"
+msgstr "وقت الصلاة"
+
+#: src/mawakit.cpp:357
+msgid "Stop Sound"
+msgstr "إيقاف الصوت"
+
+#: src/mawakit.cpp:397
+msgid "%1 minute until %2 prayer."
+msgid_plural "%1 minutes until %2 prayer."
+msgstr[0] "وقت صلاة %2."
+msgstr[1] "دقيقة واحدة حتى صلاة %2."
+msgstr[2] "دقيقتان حتى صلاة %2."
+msgstr[3] "%1 دقائق حتى صلاة %2."
+msgstr[4] "%1 دقيقة حتى صلاة %2."
+msgstr[5] "%1 دقيقة حتى صلاة %2."
+
+#: src/mawakit.cpp:406
+msgid "%1 minute after %2 prayer."
+msgid_plural "%1 minutes after %2 prayer."
+msgstr[0] "وقت صلاة %2."
+msgstr[1] "دقيقة واحدة منذ صلاة %2."
+msgstr[2] "دقيقتين منذ صلاة %2."
+msgstr[3] "%1 دقائق منذ صلاة %2."
+msgstr[4] "%1 دقيقة منذ صلاة %2."
+msgstr[5] "%1 دقيقة منذ صلاة %2."
+
+#: src/mawakit.cpp:447
+msgid "<table>"
+msgstr "<table dir='rtl'>"
+
+#: src/mawakit.cpp:460
+msgid "<tr><td>%1</td><td><font color='%2'>%3</font></td></tr>"
+msgstr "<tr><td>%1</td><td><font color='%2'>%3</font></td></tr>"
+
+#: src/mawakit.cpp:469
+msgid "<tr><td>%1</td><td>%2</td></tr>"
+msgstr "<tr><td>%1</td><td>%2</td></tr>"
+
+#: src/mawakit.cpp:470 src/mawakit.cpp:475
+msgid "</table>"
+msgstr "</table>"
+
+#: src/mawakit.cpp:478
+msgid "%1 from %2"
+msgstr "%1 منذ %2"
+
+#: src/mawakit.cpp:483 src/mawakit.cpp:486 src/mawakit.cpp:489
+#: src/notification.cpp:107 src/notification.cpp:111
+msgid "%1"
+msgstr "%1"
+
+#: src/mawakit.cpp:491
+msgid " to %1"
+msgstr " حتى %1"
+
+#: src/mawakit.cpp:495
+msgid "Prayer Times"
+msgstr "مواقيت الصلاة"
+
+#: src/mawakit.cpp:700
+msgid "Qibla direction: %1° from True North"
+msgstr "إتجاه القبلة: %1°  من الشمال الحقيقي"
+
+#: src/mawakit.cpp:701
+msgid ""
+"\n"
+"Distance: %1 km"
+msgstr ""
+"\n"
+"المسافة: %1 كلم"
+
+#: src/monthlyprayer.cpp:128
+msgid "Gregorian"
+msgstr "ميلادي"
+
+#: src/monthlyprayer.cpp:139
+msgid "Hijri"
+msgstr "هجري"
+
+#: src/monthlyprayer.cpp:149
+msgid "<h3>%1</h3>"
+msgstr "<h3>%1</h3>"
+
+#: src/monthlyprayer.cpp:237
+msgid "Islamic new year"
+msgstr "رأس السنة الهجرية"
+
+#: src/monthlyprayer.cpp:241
+msgid "Aashoraa day"
+msgstr "يوم عاشوراء"
+
+#: src/monthlyprayer.cpp:247
+msgid "Birth of the prophet"
+msgstr "المولد النبوي"
+
+#: src/monthlyprayer.cpp:253
+msgid "Isra and Mi'raj"
+msgstr "الإسراء والمعراج"
+
+#: src/monthlyprayer.cpp:259
+msgid "First day of fasting month"
+msgstr "أول أيام شهر الصيام"
+
+#: src/monthlyprayer.cpp:265
+msgid "Eid al-fitr"
+msgstr "عيد الفطر"
+
+#: src/monthlyprayer.cpp:271
+msgid "Eid al-adha"
+msgstr "عيد الأضحى"
+
+#: src/monthlyprayer.cpp:282
+msgid "Today"
+msgstr "اليوم"
+
+#: src/monthlyprayer.cpp:356
+msgid "Save File"
+msgstr "حفظ الملف"
+
+#: src/monthlyprayer.cpp:397
+msgid "Prayer Times Schedule"
+msgstr "جدول مواقيت الصلاة"
+
+#: src/monthlyprayer.cpp:400
+msgid "Month: "
+msgstr "الشهر: "
+
+#: src/monthlyprayer.cpp:406
+msgid "Location: "
+msgstr "الموقع: "
+
+#: src/notification.cpp:79
+msgid "The selected filetype is not supported by Phonon."
+msgstr "الملف المحدد غير مدعوم من قبل فونون."
+
+#: src/notification.cpp:79
+msgid "Unsupported filetype"
+msgstr "نوع الملف غير مدعوم"
+
+#: src/notification.cpp:107
+msgid "Fatal Error"
+msgstr "خطأ فادح"
+
+#: src/notification.cpp:111
+msgid "Error"
+msgstr "خطأ"
+
+#~ msgid "East"
+#~ msgstr "الشرق"
+
+#~ msgid "West"
+#~ msgstr "الغرب"
+
+#~ msgid "<tr><td colspan='2'>Time from %1 "
+#~ msgstr "<tr><td colspan='2'>الوقت منذ %1 "
+
+#~ msgid "<font>%1</font></td></tr>"
+#~ msgstr "<font>%1</font></td></tr>"
+
+#~ msgid "<tr><td colspan='2'>Time to %1 "
+#~ msgstr "<tr><td colspan='2'>الوقت حتى %1 "
+
+#~ msgid "<tr><td>%1</td><td><font color='%2'>"
+#~ msgstr "<tr><td>%1</td><td><font color='%2'>"
+
+#~ msgid "%1</font></td></tr>"
+#~ msgstr "%1</font></td></tr>"
+
+#, fuzzy
+#~ msgid "Isha"
+#~ msgstr "العشاء"
+
+#~ msgid "File location:"
+#~ msgstr "موقع الملف:"
+
+#~ msgid "Sound:"
+#~ msgstr "الصوت:"
+
+#~ msgid "Stop"
+#~ msgstr "إيقاف"
+
+#~ msgctxt "UmmAlQuraUniv"
+#~ msgid "Umm Al-Qurra"
+#~ msgstr "أم القرى"
+
+#~ msgid "<tr><td>Fajr</td><td><font color='#1c9a1c'>%1</font></td></tr>"
+#~ msgstr "<tr><td>الفجر</td><td><font color='#1c9a1c'>%1</font></td></tr>"
+
+#~ msgid "Form"
+#~ msgstr "نموذج"
+
+#~ msgid "Dialog"
+#~ msgstr "محادثة"
+
+#~ msgid ""
+#~ "if a prayer time in Mawakit consistently differs from\n"
+#~ "the local prayer time, you can statically adjust it bellow. "
+#~ msgstr ""
+#~ "إذا كان وقت الصلاة في مواقيت مختلف عن\n"
+#~ "وقت الصلاة المحلي، يمكنك ضبطها تقريبيا أدناه."

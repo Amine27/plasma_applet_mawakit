@@ -1,0 +1,21 @@
+Fajr athan - Done
+Duaa after athan - Done
+Qibla direction - Done
+Qibla distance - Done
+Prayer times report for months - Done
+Convert duaa sound format to ogg voribs - Done
+Fix duplication of notification popup - Done
+Sunrise notify after before bug - Done
+Show the time (10 min) after previous prayer in tooltips - Done
+Stop music at praying time - Done
+Fix wrong time after suspend - Done
+Fix translation loading at startup - Done
+Improve tool-tips msg strings - Done
+Use svg compass instead of Qwt - Done
+Add Islamic event in monthly prayer - Done
+Switch to new prayertimes library - Done
+
+Add option to change current language
+Add simple desktop applet
+Fix pdf export
+Show "Praying time" msg in the tooltip for 1 min
